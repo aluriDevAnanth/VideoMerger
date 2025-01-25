@@ -1,0 +1,21 @@
+{
+  "dest": {
+    "output": "",
+    "intermediateTextDir": "./dest/frames"
+  },
+  "source": [],
+  "font": {
+    "path": "./font/Cascadia.ttf",
+    "size": 64
+  },
+  "frame": {
+    "width": 1080,
+    "height": 1920,
+    "rate": 30
+  },
+  "text": {
+    "color": "#FFFFFF",
+    "background": "#000000",
+    "duration": 10
+  }
+}
