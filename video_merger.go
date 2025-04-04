@@ -190,4 +190,6 @@ func main() {
 	}
 
 	fmt.Println("Videos merged successfully into", output)
+	fmt.Println("Videos merged successfully into", output)
+	fmt.Println("Videos merged successfully into", output)
 }
